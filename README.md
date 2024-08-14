@@ -5,8 +5,8 @@ My name is Sebastian Reinhardt, I am entering my third (3) year as a Software En
 
 ### How To Reach Me?
 Feel free to reach out to me on LinkedIn or my email!
-LinkedIn: https://www.linkedin.com/in/sebastian-reinhardt/
-Email: sebastian.reinhardt@mail.mcgill.ca
+- LinkedIn: https://www.linkedin.com/in/sebastian-reinhardt/
+- Email: sebastian.reinhardt@mail.mcgill.ca
 
 ### What Am I Doing Right Now?
 I am currently a research intern at the presitigious Mila - Quebec AI Institute, under the supervision of Prof. Golnoosh Farnadi and Prof. Ross Otto, working on analyzing the adivce landscape, comparing whether humans prefer receiving advice from other humans or from Large Language Model (LLM) based chatbots, such as ChatGPT.
