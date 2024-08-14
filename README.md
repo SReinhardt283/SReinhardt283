@@ -1,9 +1,13 @@
 ## Hi there 👋
 
-<!--
-**SReinhardt283/SReinhardt283** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Who Am I?
+My name is Sebastian Reinhardt, I am entering my third (3) year as a Software Engineering student in the Software Engineering Coop Program at McGill Univeristy!
 
-Here are some ideas to get you started:
+### What Am I Doing Right Now?
+I am currently a research intern at the presitigious Mila - Quebec AI Institute, under the supervision of Prof. Golnoosh Farnadi and Prof. Ross Otto, working on analyzing the adivce landscape, comparing whether humans prefer receiving advice from other humans or from Large Language Model (LLM) based chatbots, such as ChatGPT.
+
+### Work Experience!
+- 
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -13,4 +17,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
