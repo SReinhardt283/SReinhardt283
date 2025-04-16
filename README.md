@@ -36,8 +36,8 @@ I was tasked with creating an API to prepare for the transitioning from their le
   - Utilized AWS resources CodeCommit, Lambda, and Quicksight, as well as Azure DevOps for version management
 
 ### Project Explanation!
-### Stop-&-Go Communication Protocol in OCaml
-- Implemented Stop-&-Go implementation of the Internet Protocol in OCaml.
+### Stop-&-Wait Communication Protocol in OCaml
+- Implemented Stop-&-Wait implementation of the Internet Protocol in OCaml.
 - Ensured communication between two computers, resilient to dropped packets and out-of-order packets.
 - Developed my Dune capabilities, and learned how to test OCaml projects 
 ### Financial Tracking Application
