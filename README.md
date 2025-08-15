@@ -9,19 +9,25 @@ Feel free to reach out to me on LinkedIn or my email!
 - Email: sebastian.reinhardt@mail.mcgill.ca
 
 ### What Am I Doing Right Now?
-I am currently finishing up my third internship at Matrox Video, where I worked on updating and upgrading the intra-company communications application. In this project, I developed my .NET skills, C# development and testing practices. This experience exposed me to thinking about application optimization and security aspects of the app. 
+I am currently finishing up my fourth internship, working at HiringBranch. where I helped them create their microservices for their new products. I have had the extreme pleasure working with Mr. Eric Dofonsou and Mr. Lucas Desjardins, where I honed my skills in .NET, Aspire, Reddis, Seq, RabbitMQ, and Azure DevOps. 
 
 ### What Is Coming Up For Me?
-This summer, I have my next internship at Hiringbranch, where I will be a software developer intern, where I will be helping them develop their product. I will have the privilege to work under the direct supervision of Mr. Eric Dofonsou and Mr. Lucas Desjardins.
+This fall, I will be entering my fourth year at McGill University, where I will continue my education, specifically taking courses in AI. 
 
 ### What Do I Like?
 ## Professional
-Throughout my three internships, I have accrued the most experience (and interest) in .NET development and coding in C#.
+Throughout my four internships, I have accrued the most experience (and interest) in .NET development and coding in C#. I have also gotten interested in NLP stacks and AI, so I hope to work on that in the future.
 
 ## Academic
 As I near the end of my undergrad, I have started thinking about the future and trying to decide what I want to do once I graduate, and I keep on coming to the conclusion that I do want to make contributions to the academic community if I can. For this reason, I have tentatively narrowed my interests to **cybersecurity**, **Artificial Intelligence** and **Software Development in Healthcare**.
 
 ### Work Experience!
+#### Software Developer Intern at HiringBranch
+ - Aided in the designing of the architecture of the microservice, while following the CLEAN API architecture
+ - Developed microservices while using Postgres as the database, and exploited technologies, such as EntityFramework Core, Shouldly, Aspire, Scalar, Reddis, Seq, and RabbitMQ
+ - Compared and analyzed different technologies to decide which was best for the project
+ - Exploited Kubernetes and Docker to deploy the product versions
+
 ### Research Intern at Mila
 Worked on analyzing the adivce landscape, comparing whether humans prefer receiving advice from other humans or from Large Language Model (LLM) based chatbots, such as ChatGPT.
  - Navigated the academic domain of Psychology and Computer Science to develop an intriguing data-driven research project combining the two disciplines
